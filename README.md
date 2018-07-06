@@ -3,6 +3,9 @@
 Data files used for analysis in "The lung microbiome is altered by hyperoxia and contributes to oxygen-induced lung injury" by Ashley et al (submitted). Questions: Robert Dickson at rodickso@med.umich.edu
 
 
+Directory: /01_human_hyperoxia_culture_data
+	human_hyperoxia_culture_data.txt - culture data from ICU patients 2015-2017
+
 Directory: /02_mouse_acute_hyperoxia
 
 	hyperoxia.0.03.cons.taxonomy.txt - taxonomy classification file
