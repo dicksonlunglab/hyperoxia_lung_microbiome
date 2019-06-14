@@ -1,0 +1,215 @@
+# Positive culture results day 24 hours to 7 days after average FiO2 exposure < 46
+tab species if pt_oxygen3==1, sort
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                  Staphylococcus aureus |         75       28.30       28.30
+                 Pseudomonas aeruginosa |         56       21.13       49.43
+                       Escherichia coli |         25        9.43       58.87
+   Stenotrophomonas maltophilia complex |         16        6.04       64.91
+           Enterobacter cloacae complex |         11        4.15       69.06
+                 Haemophilus influenzae |          8        3.02       72.08
+                  Klebsiella pneumoniae |          8        3.02       75.09
+                    Serratia marcescens |          8        3.02       78.11
+                     Citrobacter koseri |          7        2.64       80.75
+               Streptococcus pneumoniae |          5        1.89       82.64
+                  Aspergillus fumigatus |          4        1.51       84.15
+                 Enterobacter aerogenes |          4        1.51       85.66
+                     Klebsiella oxytoca |          4        1.51       87.17
+Pseudomonas aeruginosa (mucoid variety) |          4        1.51       88.68
+Beta-hemolytic Streptococcus not Grou.. |          3        1.13       89.81
+                  Achromobacter species |          2        0.75       90.57
+        Acinetobacter baumannii complex |          2        0.75       91.32
+           Citrobacter freundii complex |          2        0.75       92.08
+                Cryptococcus neoformans |          2        0.75       92.83
+            Nocardia asteroides complex |          2        0.75       93.58
+                      Proteus mirabilis |          2        0.75       94.34
+                   Providencia stuartii |          2        0.75       95.09
+                  Acinetobacter species |          1        0.38       95.47
+   Beta-hemolytic Streptococcus Group A |          1        0.38       95.85
+              Bordetella bronchiseptica |          1        0.38       96.23
+                   Burkholderia cepacia |          1        0.38       96.60
+                  Burkholderia gladioli |          1        0.38       96.98
+               Corynebacterium striatum |          1        0.38       97.36
+                  Moraxella catarrhalis |          1        0.38       97.74
+                    Morganella morganii |          1        0.38       98.11
+Mycelia sterilia, no further identifi.. |          1        0.38       98.49
+                       Proteus vulgaris |          1        0.38       98.87
+                       Rhizopus species |          1        0.38       99.25
+                       Serratia species |          1        0.38       99.62
+                      gram negative rod |          1        0.38      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        265      100.00
+
+
+# Positive culture results day 24 hours to 7 days after average FiO2 exposure = 46 - 60
+tab species if pt_oxygen3==2, sort
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                  Staphylococcus aureus |         68       29.44       29.44
+                 Pseudomonas aeruginosa |         46       19.91       49.35
+                  Klebsiella pneumoniae |         20        8.66       58.01
+   Stenotrophomonas maltophilia complex |         16        6.93       64.94
+                 Haemophilus influenzae |         13        5.63       70.56
+                       Escherichia coli |         11        4.76       75.32
+                    Serratia marcescens |          9        3.90       79.22
+        Acinetobacter baumannii complex |          8        3.46       82.68
+                  Aspergillus fumigatus |          6        2.60       85.28
+           Enterobacter cloacae complex |          6        2.60       87.88
+                 Enterobacter aerogenes |          5        2.16       90.04
+Beta-hemolytic Streptococcus not Grou.. |          4        1.73       91.77
+                     Klebsiella oxytoca |          4        1.73       93.51
+               Streptococcus pneumoniae |          3        1.30       94.81
+                  Achromobacter species |          2        0.87       95.67
+                    Citrobacter species |          2        0.87       96.54
+                   Klebsiella variicola |          2        0.87       97.40
+Pseudomonas aeruginosa (mucoid variety) |          2        0.87       98.27
+                  Acinetobacter species |          1        0.43       98.70
+Burkholderia cepacia complex; B. ceno.. |          1        0.43       99.13
+                     Geotrichum species |          1        0.43       99.57
+               Pseudomonas putida group |          1        0.43      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        231      100.00
+
+# Positive culture results day 24 hours to 7 days after average FiO2 exposure > 60
+. tab species if pt_oxygen3==3, sort
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                  Staphylococcus aureus |         65       35.91       35.91
+                 Pseudomonas aeruginosa |         25       13.81       49.72
+                       Escherichia coli |         15        8.29       58.01
+                    Serratia marcescens |         13        7.18       65.19
+                  Klebsiella pneumoniae |         11        6.08       71.27
+   Stenotrophomonas maltophilia complex |          9        4.97       76.24
+                 Haemophilus influenzae |          6        3.31       79.56
+                  Achromobacter species |          5        2.76       82.32
+                 Enterobacter aerogenes |          5        2.76       85.08
+           Enterobacter cloacae complex |          5        2.76       87.85
+               Streptococcus pneumoniae |          4        2.21       90.06
+                  Aspergillus fumigatus |          2        1.10       91.16
+   Beta-hemolytic Streptococcus Group A |          2        1.10       92.27
+                  Burkholderia gladioli |          2        1.10       93.37
+                     Klebsiella oxytoca |          2        1.10       94.48
+                  Moraxella catarrhalis |          2        1.10       95.58
+Pseudomonas aeruginosa (mucoid variety) |          2        1.10       96.69
+        Acinetobacter baumannii complex |          1        0.55       97.24
+                  Acinetobacter species |          1        0.55       97.79
+              Actinomyces odontolyticus |          1        0.55       98.34
+               Corynebacterium striatum |          1        0.55       98.90
+                      Proteus mirabilis |          1        0.55       99.45
+Streptococcus pneumoniae - Mucoid var.. |          1        0.55      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        181      100.00
+
+
+
+
+#################################################################################
+####SAME RESULTS AS ABOVE, EXCEPT NOW THE DENOMINATOR IS ALL CULTURES PERFORMED, 
+####NOT JUST POSITIVE CULTURES
+
+. tab species if pt_oxygen3==1, sort m
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                        |        505       65.58       65.58
+                  Staphylococcus aureus |         75        9.74       75.32
+                 Pseudomonas aeruginosa |         56        7.27       82.60
+                       Escherichia coli |         25        3.25       85.84
+   Stenotrophomonas maltophilia complex |         16        2.08       87.92
+           Enterobacter cloacae complex |         11        1.43       89.35
+                 Haemophilus influenzae |          8        1.04       90.39
+                  Klebsiella pneumoniae |          8        1.04       91.43
+                    Serratia marcescens |          8        1.04       92.47
+                     Citrobacter koseri |          7        0.91       93.38
+               Streptococcus pneumoniae |          5        0.65       94.03
+                  Aspergillus fumigatus |          4        0.52       94.55
+                 Enterobacter aerogenes |          4        0.52       95.06
+                     Klebsiella oxytoca |          4        0.52       95.58
+Pseudomonas aeruginosa (mucoid variety) |          4        0.52       96.10
+Beta-hemolytic Streptococcus not Grou.. |          3        0.39       96.49
+                  Achromobacter species |          2        0.26       96.75
+        Acinetobacter baumannii complex |          2        0.26       97.01
+           Citrobacter freundii complex |          2        0.26       97.27
+                Cryptococcus neoformans |          2        0.26       97.53
+            Nocardia asteroides complex |          2        0.26       97.79
+                      Proteus mirabilis |          2        0.26       98.05
+                   Providencia stuartii |          2        0.26       98.31
+                  Acinetobacter species |          1        0.13       98.44
+   Beta-hemolytic Streptococcus Group A |          1        0.13       98.57
+              Bordetella bronchiseptica |          1        0.13       98.70
+                   Burkholderia cepacia |          1        0.13       98.83
+                  Burkholderia gladioli |          1        0.13       98.96
+               Corynebacterium striatum |          1        0.13       99.09
+                  Moraxella catarrhalis |          1        0.13       99.22
+                    Morganella morganii |          1        0.13       99.35
+Mycelia sterilia, no further identifi.. |          1        0.13       99.48
+                       Proteus vulgaris |          1        0.13       99.61
+                       Rhizopus species |          1        0.13       99.74
+                       Serratia species |          1        0.13       99.87
+                      gram negative rod |          1        0.13      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        770      100.00
+
+. tab species if pt_oxygen3==2, sort m
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                        |        572       71.23       71.23
+                  Staphylococcus aureus |         68        8.47       79.70
+                 Pseudomonas aeruginosa |         46        5.73       85.43
+                  Klebsiella pneumoniae |         20        2.49       87.92
+   Stenotrophomonas maltophilia complex |         16        1.99       89.91
+                 Haemophilus influenzae |         13        1.62       91.53
+                       Escherichia coli |         11        1.37       92.90
+                    Serratia marcescens |          9        1.12       94.02
+        Acinetobacter baumannii complex |          8        1.00       95.02
+                  Aspergillus fumigatus |          6        0.75       95.77
+           Enterobacter cloacae complex |          6        0.75       96.51
+                 Enterobacter aerogenes |          5        0.62       97.14
+Beta-hemolytic Streptococcus not Grou.. |          4        0.50       97.63
+                     Klebsiella oxytoca |          4        0.50       98.13
+               Streptococcus pneumoniae |          3        0.37       98.51
+                  Achromobacter species |          2        0.25       98.75
+                    Citrobacter species |          2        0.25       99.00
+                   Klebsiella variicola |          2        0.25       99.25
+Pseudomonas aeruginosa (mucoid variety) |          2        0.25       99.50
+                  Acinetobacter species |          1        0.12       99.63
+Burkholderia cepacia complex; B. ceno.. |          1        0.12       99.75
+                     Geotrichum species |          1        0.12       99.88
+               Pseudomonas putida group |          1        0.12      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        803      100.00
+
+. tab species if pt_oxygen3==3, sort m
+
+                                species |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                                        |        697       79.38       79.38
+                  Staphylococcus aureus |         65        7.40       86.79
+                 Pseudomonas aeruginosa |         25        2.85       89.64
+                       Escherichia coli |         15        1.71       91.34
+                    Serratia marcescens |         13        1.48       92.82
+                  Klebsiella pneumoniae |         11        1.25       94.08
+   Stenotrophomonas maltophilia complex |          9        1.03       95.10
+                 Haemophilus influenzae |          6        0.68       95.79
+                  Achromobacter species |          5        0.57       96.36
+                 Enterobacter aerogenes |          5        0.57       96.92
+           Enterobacter cloacae complex |          5        0.57       97.49
+               Streptococcus pneumoniae |          4        0.46       97.95
+                  Aspergillus fumigatus |          2        0.23       98.18
+   Beta-hemolytic Streptococcus Group A |          2        0.23       98.41
+                  Burkholderia gladioli |          2        0.23       98.63
+                     Klebsiella oxytoca |          2        0.23       98.86
+                  Moraxella catarrhalis |          2        0.23       99.09
+Pseudomonas aeruginosa (mucoid variety) |          2        0.23       99.32
+        Acinetobacter baumannii complex |          1        0.11       99.43
+                  Acinetobacter species |          1        0.11       99.54
+              Actinomyces odontolyticus |          1        0.11       99.66
+               Corynebacterium striatum |          1        0.11       99.77
+                      Proteus mirabilis |          1        0.11       99.89
+Streptococcus pneumoniae - Mucoid var.. |          1        0.11      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        878      100.00
