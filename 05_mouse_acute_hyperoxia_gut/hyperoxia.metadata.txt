@@ -1,0 +1,229 @@
+specimen	control	tissue_type	duration	mouse
+control_AE_____XX_X_01	control	AE		X
+control_AE_____XX_X_02	control	AE		X
+control_AE_____XX_X_03	control	AE		X
+control_AE_____XX_X_04	control	AE		X
+control_AE_____XX_X_05	control	AE		X
+control_AE_____XX_X_06	control	AE		X
+control_blank__B__X_01	control	blank		X
+control_blank__C__X_05	control	blank		X
+control_blank__C__X_06	control	blank		X
+control_blank__C__X_07	control	blank		X
+control_blank__C__X_01	control	blank		X
+control_blank__C__X_02	control	blank		X
+control_blank__C__X_03	control	blank		X
+control_blank__C__X_04	control	blank		X
+control_blank__C__X_17	control	blank		X
+control_blank__C__X_18	control	blank		X
+control_blank__C__X_19	control	blank		X
+control_blank__C__X_08	control	blank		X
+control_blank__C__X_09	control	blank		X
+control_blank__C__X_10	control	blank		X
+control_blank__C__X_11	control	blank		X
+control_blank__C__X_12	control	blank		X
+control_blank__C__X_13	control	blank		X
+control_blank__C__X_14	control	blank		X
+control_blank__C__X_15	control	blank		X
+control_blank__C__X_16	control	blank		X
+control_blank__C__X_20	control	blank		X
+control_blank__C__X_21	control	blank		X
+control_blank__C__X_22	control	blank		X
+control_blank__D__X_01	control	blank		X
+control_blank__D__X_06	control	blank		X
+control_blank__D__X_07	control	blank		X
+control_blank__D__X_08	control	blank		X
+control_blank__D__X_02	control	blank		X
+control_blank__D__X_03	control	blank		X
+control_blank__D__X_04	control	blank		X
+control_blank__D__X_05	control	blank		X
+control_blank__D__X_18	control	blank		X
+control_blank__D__X_19	control	blank		X
+control_blank__D__X_20	control	blank		X
+control_blank__D__X_09	control	blank		X
+control_blank__D__X_10	control	blank		X
+control_blank__D__X_11	control	blank		X
+control_blank__D__X_12	control	blank		X
+control_blank__D__X_13	control	blank		X
+control_blank__D__X_14	control	blank		X
+control_blank__D__X_15	control	blank		X
+control_blank__D__X_16	control	blank		X
+control_blank__D__X_17	control	blank		X
+control_blank__D__X_21	control	blank		X
+control_blank__D__X_22	control	blank		X
+control_blank__D__X_23	control	blank		X
+control_blank__D__X_24	control	blank		X
+tissue__cecum__D0_1_01	tissue	cecum	D0	1
+tissue__colon__D0_1_01	tissue	colon	D0	1
+tissue__nasal__D0_1_01	tissue	nasal	D0	1
+tissue__tongue_D0_1_01	tissue	tongue	D0	1
+tissue__cecum__D0_1_02	tissue	cecum	D0	1
+tissue__colon__D0_1_02	tissue	colon	D0	1
+tissue__nasal__D0_1_02	tissue	nasal	D0	1
+tissue__tongue_D0_1_02	tissue	tongue	D0	1
+tissue__cecum__D0_1_03	tissue	cecum	D0	1
+tissue__colon__D0_1_03	tissue	colon	D0	1
+tissue__nasal__D0_1_03	tissue	nasal	D0	1
+tissue__tongue_D0_1_03	tissue	tongue	D0	1
+tissue__cecum__D0_1_04	tissue	cecum	D0	1
+tissue__colon__D0_1_04	tissue	colon	D0	1
+tissue__nasal__D0_1_04	tissue	nasal	D0	1
+tissue__tongue_D0_1_04	tissue	tongue	D0	1
+tissue__cecum__D0_1_05	tissue	cecum	D0	1
+tissue__colon__D0_1_05	tissue	colon	D0	1
+tissue__nasal__D0_1_05	tissue	nasal	D0	1
+tissue__tongue_D0_1_05	tissue	tongue	D0	1
+tissue__cecum__D1_1_01	tissue	cecum	D1	1
+tissue__colon__D1_1_01	tissue	colon	D1	1
+tissue__nasal__D1_1_01	tissue	nasal	D1	1
+tissue__tongue_D1_1_01	tissue	tongue	D1	1
+tissue__cecum__D1_1_02	tissue	cecum	D1	1
+tissue__colon__D1_1_02	tissue	colon	D1	1
+tissue__nasal__D1_1_02	tissue	nasal	D1	1
+tissue__tongue_D1_1_02	tissue	tongue	D1	1
+tissue__cecum__D1_1_03	tissue	cecum	D1	1
+tissue__colon__D1_1_03	tissue	colon	D1	1
+tissue__nasal__D1_1_03	tissue	nasal	D1	1
+tissue__tongue_D1_1_03	tissue	tongue	D1	1
+tissue__cecum__D1_1_04	tissue	cecum	D1	1
+tissue__colon__D1_1_04	tissue	colon	D1	1
+tissue__nasal__D1_1_04	tissue	nasal	D1	1
+tissue__tongue_D1_1_04	tissue	tongue	D1	1
+tissue__cecum__D1_1_05	tissue	cecum	D1	1
+tissue__colon__D1_1_05	tissue	colon	D1	1
+tissue__nasal__D1_1_05	tissue	nasal	D1	1
+tissue__tongue_D1_1_05	tissue	tongue	D1	1
+tissue__cecum__D2_1_01	tissue	cecum	D2	1
+tissue__colon__D2_1_01	tissue	colon	D2	1
+tissue__nasal__D2_1_01	tissue	nasal	D2	1
+tissue__tongue_D2_1_01	tissue	tongue	D2	1
+tissue__cecum__D2_1_02	tissue	cecum	D2	1
+tissue__colon__D2_1_02	tissue	colon	D2	1
+tissue__nasal__D2_1_02	tissue	nasal	D2	1
+tissue__tongue_D2_1_02	tissue	tongue	D2	1
+tissue__cecum__D2_1_03	tissue	cecum	D2	1
+tissue__colon__D2_1_03	tissue	colon	D2	1
+tissue__nasal__D2_1_03	tissue	nasal	D2	1
+tissue__tongue_D2_1_03	tissue	tongue	D2	1
+tissue__cecum__D2_1_04	tissue	cecum	D2	1
+tissue__colon__D2_1_04	tissue	colon	D2	1
+tissue__nasal__D2_1_04	tissue	nasal	D2	1
+tissue__tongue_D2_1_04	tissue	tongue	D2	1
+tissue__cecum__D2_1_05	tissue	cecum	D2	1
+tissue__colon__D2_1_05	tissue	colon	D2	1
+tissue__nasal__D2_1_05	tissue	nasal	D2	1
+tissue__tongue_D2_1_05	tissue	tongue	D2	1
+tissue__cecum__D3_1_01	tissue	cecum	D3	1
+tissue__colon__D3_1_01	tissue	colon	D3	1
+tissue__tongue_D3_1_01	tissue	tongue	D3	1
+tissue__cecum__D3_1_02	tissue	cecum	D3	1
+tissue__colon__D3_1_02	tissue	colon	D3	1
+tissue__nasal__D3_1_02	tissue	nasal	D3	1
+tissue__tongue_D3_1_02	tissue	tongue	D3	1
+tissue__cecum__D3_1_03	tissue	cecum	D3	1
+tissue__colon__D3_1_03	tissue	colon	D3	1
+tissue__nasal__D3_1_03	tissue	nasal	D3	1
+tissue__tongue_D3_1_03	tissue	tongue	D3	1
+tissue__cecum__D3_1_04	tissue	cecum	D3	1
+tissue__colon__D3_1_04	tissue	colon	D3	1
+tissue__nasal__D3_1_04	tissue	nasal	D3	1
+tissue__tongue_D3_1_04	tissue	tongue	D3	1
+tissue__cecum__D3_1_05	tissue	cecum	D3	1
+tissue__colon__D3_1_05	tissue	colon	D3	1
+tissue__nasal__D3_1_05	tissue	nasal	D3	1
+tissue__tongue_D3_1_05	tissue	tongue	D3	1
+tissue__cecum__D0_2_01	tissue	cecum	D0	2
+tissue__colon__D0_2_01	tissue	colon	D0	2
+tissue__nasal__D0_2_01	tissue	nasal	D0	2
+tissue__tongue_D0_2_01	tissue	tongue	D0	2
+tissue__cecum__D0_2_02	tissue	cecum	D0	2
+tissue__colon__D0_2_02	tissue	colon	D0	2
+tissue__nasal__D0_2_02	tissue	nasal	D0	2
+tissue__tongue_D0_2_02	tissue	tongue	D0	2
+tissue__cecum__D0_2_03	tissue	cecum	D0	2
+tissue__colon__D0_2_03	tissue	colon	D0	2
+tissue__nasal__D0_2_03	tissue	nasal	D0	2
+tissue__tongue_D0_2_03	tissue	tongue	D0	2
+tissue__cecum__D0_2_04	tissue	cecum	D0	2
+tissue__colon__D0_2_04	tissue	colon	D0	2
+tissue__nasal__D0_2_04	tissue	nasal	D0	2
+tissue__tongue_D0_2_04	tissue	tongue	D0	2
+tissue__cecum__D0_2_05	tissue	cecum	D0	2
+tissue__colon__D0_2_05	tissue	colon	D0	2
+tissue__nasal__D0_2_05	tissue	nasal	D0	2
+tissue__tongue_D0_2_05	tissue	tongue	D0	2
+tissue__cecum__D1_2_01	tissue	cecum	D1	2
+tissue__colon__D1_2_01	tissue	colon	D1	2
+tissue__nasal__D1_2_01	tissue	nasal	D1	2
+tissue__tongue_D1_2_01	tissue	tongue	D1	2
+tissue__cecum__D1_2_02	tissue	cecum	D1	2
+tissue__colon__D1_2_02	tissue	colon	D1	2
+tissue__nasal__D1_2_02	tissue	nasal	D1	2
+tissue__tongue_D1_2_02	tissue	tongue	D1	2
+tissue__cecum__D1_2_03	tissue	cecum	D1	2
+tissue__colon__D1_2_03	tissue	colon	D1	2
+tissue__nasal__D1_2_03	tissue	nasal	D1	2
+tissue__tongue_D1_2_03	tissue	tongue	D1	2
+tissue__cecum__D1_2_04	tissue	cecum	D1	2
+tissue__colon__D1_2_04	tissue	colon	D1	2
+tissue__nasal__D1_2_04	tissue	nasal	D1	2
+tissue__tongue_D1_2_04	tissue	tongue	D1	2
+tissue__cecum__D1_2_05	tissue	cecum	D1	2
+tissue__colon__D1_2_05	tissue	colon	D1	2
+tissue__nasal__D1_2_05	tissue	nasal	D1	2
+tissue__tongue_D1_2_05	tissue	tongue	D1	2
+tissue__cecum__D2_2_01	tissue	cecum	D2	2
+tissue__colon__D2_2_01	tissue	colon	D2	2
+tissue__nasal__D2_2_01	tissue	nasal	D2	2
+tissue__tongue_D2_2_01	tissue	tongue	D2	2
+tissue__cecum__D2_2_02	tissue	cecum	D2	2
+tissue__colon__D2_2_02	tissue	colon	D2	2
+tissue__nasal__D2_2_02	tissue	nasal	D2	2
+tissue__tongue_D2_2_02	tissue	tongue	D2	2
+tissue__cecum__D2_2_03	tissue	cecum	D2	2
+tissue__colon__D2_2_03	tissue	colon	D2	2
+tissue__nasal__D2_2_03	tissue	nasal	D2	2
+tissue__tongue_D2_2_03	tissue	tongue	D2	2
+tissue__cecum__D2_2_04	tissue	cecum	D2	2
+tissue__colon__D2_2_04	tissue	colon	D2	2
+tissue__nasal__D2_2_04	tissue	nasal	D2	2
+tissue__tongue_D2_2_04	tissue	tongue	D2	2
+tissue__cecum__D2_2_05	tissue	cecum	D2	2
+tissue__colon__D2_2_05	tissue	colon	D2	2
+tissue__nasal__D2_2_05	tissue	nasal	D2	2
+tissue__tongue_D2_2_05	tissue	tongue	D2	2
+tissue__cecum__D3_2_01	tissue	cecum	D3	2
+tissue__colon__D3_2_01	tissue	colon	D3	2
+tissue__nasal__D3_2_01	tissue	nasal	D3	2
+tissue__tongue_D3_2_01	tissue	tongue	D3	2
+tissue__cecum__D3_2_02	tissue	cecum	D3	2
+tissue__colon__D3_2_02	tissue	colon	D3	2
+tissue__nasal__D3_2_02	tissue	nasal	D3	2
+tissue__tongue_D3_2_02	tissue	tongue	D3	2
+tissue__cecum__D3_2_03	tissue	cecum	D3	2
+tissue__colon__D3_2_03	tissue	colon	D3	2
+tissue__nasal__D3_2_03	tissue	nasal	D3	2
+tissue__tongue_D3_2_03	tissue	tongue	D3	2
+tissue__cecum__D3_2_04	tissue	cecum	D3	2
+tissue__colon__D3_2_04	tissue	colon	D3	2
+tissue__nasal__D3_2_04	tissue	nasal	D3	2
+tissue__tongue_D3_2_04	tissue	tongue	D3	2
+tissue__cecum__D3_2_05	tissue	cecum	D3	2
+tissue__colon__D3_2_05	tissue	colon	D3	2
+tissue__nasal__D3_2_05	tissue	nasal	D3	2
+tissue__tongue_D3_2_05	tissue	tongue	D3	2
+control_ISOCTL_XX_X_01	control	ISOCTL		X
+control_ISOCTL_XX_X_02	control	ISOCTL		X
+control_ISOCTL_XX_X_03	control	ISOCTL		X
+control_ISOCTL_XX_X_04	control	ISOCTL		X
+control_ISOCTL_XX_X_05	control	ISOCTL		X
+control_ISOCTL_XX_X_06	control	ISOCTL		X
+control_ISOCTL_XX_X_07	control	ISOCTL		X
+control_ISOCTL_XX_X_08	control	ISOCTL		X
+mock____mock___XX_X_01	mock	mock		X
+mock____mock___XX_X_02	mock	mock		X
+mock____mock___XX_X_03	mock	mock		X
+mock____mock___XX_X_04	mock	mock		X
+control_water__XX_X_01	control	water		X
+control_water__XX_X_02	control	water		X
+control_water__XX_X_03	control	water		X
+control_water__XX_X_04	control	water		X
